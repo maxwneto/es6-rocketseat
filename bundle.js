@@ -62,7 +62,7 @@ var TodoList = /*#__PURE__*/function (_List) {
 var MinhaLista = new TodoList();
 
 document.getElementById('novotodo').onclick = function () {
-  MinhaLista.add('Novo todo');
+  MinhaLista.add('Novo todo.');
 };
 
 MinhaLista.mostraUsuario();
