@@ -1,5 +1,5 @@
-//import { soma,subtracao } from './funcoes.js';
+import soma, { subtracao,multiplicacao } from './funcoes.js';
 
-import soma from './soma';
 console.log(soma(1,2));
-//console .log(subtracao(5,1));
+console .log(subtracao(5,1));
+console.log(multiplicacao(2,4));
