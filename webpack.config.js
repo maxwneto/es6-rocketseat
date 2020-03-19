@@ -1,5 +1,5 @@
 module.exports = {
-    entry: ['@babel/polyfill','./axios/main.js'],
+    entry: ['@babel/polyfill','./desafio-modulo3/main.js'],
     output: {
         path: __dirname + '/public/',
         filename: 'bundle.js',
