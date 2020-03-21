@@ -1,2 +1,1 @@
-# es6-rocketseat
-curso ecma script 6
+Curso Ecma Script 6 onde foi estudado os novos recursos de classes, contantes, operaçõe em arrays, arrow functions, valores padrão, desestruturação de objetos, operadores rest/spread, template literals, object short syntax e programação assíncrona (async/await)
